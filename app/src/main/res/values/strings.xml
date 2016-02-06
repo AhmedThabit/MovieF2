@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Finial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_test">testActivity</string>
+
+
+    <string name="pref_sort_label">Sort Movies by</string>
+    <string name="pref_sort_label_popular">Popular</string>
+    <string name="pref_sort_label_highest">Highest-rate</string>
+
+
+    <string name="pref_sort_key">sortKey</string>
+    <string name="pref_sort_popular">popularity.desc</string>
+    <string name="pref_sort_highest">top_rated.desc</string>
+
+
+</resources>
